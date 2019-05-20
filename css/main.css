@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.circle-icon {
+    background-color: #f8f8f8;
+    color: #e38f42;
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    font-size: 4rem;
+
+    /* align */
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle; 
+
+    margin: 2rem auto 1rem auto;
+
+}
