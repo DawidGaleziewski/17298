@@ -2,6 +2,23 @@
     box-sizing: border-box;
 }
 
+body {
+    color: #888897
+}
+
+.main-header {
+    font-size: 2rem;
+    font-weight: normal;
+    border-bottom: 1px solid #f8f8f8;
+    padding: 2rem;
+    display: block;
+    width: 1rem;
+}
+
+.container {
+    margin-top: 5rem;
+}
+
 .circle-icon {
     background-color: #f8f8f8;
     color: #e38f42;
